@@ -1,0 +1,1 @@
+This is a 'spare time' project for me to create a new way of recording homebrew details as well as practicing my programming skills.
